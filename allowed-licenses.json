@@ -1,0 +1,98 @@
+{
+  "allowedLicenses": [
+    {
+      "moduleLicense": "Apache License, Version 2.0"
+    },
+    {
+      "moduleLicense": "Apache Software License, Version 1.1"
+    },
+    {
+      "moduleLicense": "BSD Zero Clause License"
+    },
+    {
+      "moduleLicense": "Bouncy Castle Licence"
+    },
+    {
+      "moduleLicense": "Bouncy Castle License"
+    },
+    {
+      "moduleLicense": "CDDL/GPLv2+CE"
+    },
+    {
+      "moduleLicense": "COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0"
+    },
+    {
+      "moduleLicense": "COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.1"
+    },
+    {
+      "moduleLicense": "Creative Commons Legal Code"
+    },
+    {
+      "moduleLicense": "Eclipse Distribution License - v 1.0"
+    },
+    {
+      "moduleLicense": "Eclipse Public License - v 1.0"
+    },
+    {
+      "moduleLicense": "Eclipse Public License - v 2.0"
+    },
+    {
+      "moduleLicense": "GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1"
+    },
+    {
+      "moduleLicense": "GNU Lesser General Public License"
+    },
+    {
+      "moduleLicense": "MIT License"
+    },
+    {
+      "moduleLicense": "Mozilla Public License"
+    },
+    {
+      "moduleLicense": "Mozilla Public License Version 1.1"
+    },
+    {
+      "moduleLicense": "PUBLIC DOMAIN"
+    },
+    {
+      "moduleLicense": "Revised BSD"
+    },
+    {
+      "moduleLicense": "The 2-Clause BSD License"
+    },
+    {
+      "moduleLicense": "The 3-Clause BSD License"
+    },
+    {
+      "moduleLicense": "The PostgreSQL License"
+    },
+    {
+      "moduleLicense": "WTFPL"
+    },
+    {
+      "moduleLicense": null,
+      "moduleVersion": "138",
+      "moduleName": "bouncycastle:bctsp-jdk14"
+    },
+    {
+      "moduleLicense": null,
+      "moduleVersion": "2.3.2",
+      "moduleName": "com.sun.xml.bind:jaxb-ri"
+    },
+    {
+      "moduleLicense": null,
+      "moduleVersion": "2.3.3",
+      "moduleName": "com.sun.xml.ws:jaxws-ri"
+    },
+    {
+      "moduleLicense": null,
+      "moduleVersion": "1.0",
+      "moduleName": "net.jcip:jcip-annotations"
+    },
+    {
+      "moduleLicense": null,
+      "moduleVersion": "2.17.32",
+      "moduleName": "software.amazon.awssdk:bom"
+    }
+  ]
+}
