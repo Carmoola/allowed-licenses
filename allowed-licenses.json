@@ -67,6 +67,9 @@
       "moduleLicense": "GNU Lesser General Public License"
     },
     {
+      "moduleLicense": "GPL-3.0"
+    },
+    {
     "moduleLicense": "ISC"
     },
     {
@@ -74,6 +77,9 @@
     },
     {
       "moduleLicense": "MIT"
+    },
+    {
+      "moduleLicense": "MIT*"
     },
     {
       "moduleLicense": "Mozilla Public License"
