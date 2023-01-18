@@ -16,6 +16,9 @@
       "moduleLicense": "0BSD"
     },
     {
+      "moduleLicense": "BSD*"
+    },
+    {
       "moduleLicense": "BSD-2-Clause"
     },
     {
@@ -62,6 +65,9 @@
     },
     {
       "moduleLicense": "GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1"
+    },
+    {
+      "moduleLicense": "LGPL-3.0"
     },
     {
       "moduleLicense": "GNU Lesser General Public License"
@@ -116,6 +122,9 @@
     },
     {
       "moduleLicense": "UNLICENSED"
+    },
+    {
+      "moduleLicense": "Zlib"
     },
     {
       "moduleLicense": null,
