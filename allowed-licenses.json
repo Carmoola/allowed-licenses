@@ -151,6 +151,11 @@
       "moduleLicense": null,
       "moduleVersion": "2.1",
       "moduleName": "javax.xml.bind:jaxb-api"
+    },
+    {
+      "moduleLicense": null,
+      "moduleVersion": "2.19.16",
+      "moduleName": "software.amazon.awssdk:bom"
     }
   ]
 }
