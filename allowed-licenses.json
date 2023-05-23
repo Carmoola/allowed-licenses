@@ -124,6 +124,9 @@
       "moduleLicense": "Zlib"
     },
     {
+      "moduleLicense": "Go License"
+    },
+    {
       "moduleLicense": null,
       "moduleVersion": "138",
       "moduleName": "bouncycastle:bctsp-jdk14"
