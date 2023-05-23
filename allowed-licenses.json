@@ -156,6 +156,11 @@
       "moduleLicense": null,
       "moduleVersion": "2.19.16",
       "moduleName": "software.amazon.awssdk:bom"
+    },
+    {
+      "moduleLicense": null,
+      "moduleVersion": "1.3.2",
+      "moduleName": "org.apache.commons:commons-io"
     }
   ]
 }
