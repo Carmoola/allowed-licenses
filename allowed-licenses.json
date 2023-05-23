@@ -25,6 +25,9 @@
       "moduleLicense": "BSD-3-Clause"
     },
     {
+      "moduleLicense": "The BSD License"
+    },
+    {
       "moduleLicense": "Bouncy Castle Licence"
     },
     {
@@ -80,6 +83,9 @@
     },
     {
       "moduleLicense": "MIT"
+    },
+    {
+      "moduleLicense": "MIT-0"
     },
     {
       "moduleLicense": "MIT*"
@@ -161,6 +167,11 @@
       "moduleLicense": null,
       "moduleVersion": "1.3.2",
       "moduleName": "org.apache.commons:commons-io"
+    },
+    {
+      "moduleLicense": null,
+      "moduleVersion": "3.0.0",
+      "moduleName": "com.squareup.okio:okio"
     }
   ]
 }
