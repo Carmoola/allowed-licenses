@@ -70,7 +70,13 @@
       "moduleLicense": "LGPL-3.0"
     },
     {
+      "moduleLicense": "GNU LESSER GENERAL PUBLIC LICENSE, Version 3"
+    },
+    {
       "moduleLicense": "GNU Lesser General Public License"
+    },
+    {
+      "moduleLicense": "PUBLIC DOMAIN"
     },
     {
       "moduleLicense": "GPL-3.0"
@@ -175,6 +181,31 @@
       "moduleLicense": null,
       "moduleVersion": "3.0.0",
       "moduleName": "com.squareup.okio:okio"
+    },
+    {
+      "moduleLicense": null,
+      "moduleVersion": "3.2.0",
+      "moduleName": "com.squareup.okio:okio"
+    },
+    {
+      "moduleLicense": null,
+      "moduleVersion": "4.0.2",
+      "moduleName": "com.sun.xml.bind:jaxb-ri"
+    },
+    {
+      "moduleLicense": null,
+      "moduleVersion": "4.0.1",
+      "moduleName": "com.sun.xml.ws:jaxws-ri"
+    },
+    {
+      "moduleLicense": null,
+      "moduleVersion": "3.0.1",
+      "moduleName": "io.awspring.cloud:spring-cloud-aws-dependencies"
+    },
+    {
+      "moduleLicense": null,
+      "moduleVersion": "2.20.75",
+      "moduleName": "software.amazon.awssdk:bom"
     }
   ]
 }
