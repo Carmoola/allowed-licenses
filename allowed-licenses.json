@@ -22,9 +22,6 @@
       "moduleLicense": "BSD-2-Clause"
     },
     {
-      "moduleLicense": "BSD-2-Clause OR MIT OR Apache-2.0"
-    },
-    {
       "moduleLicense": "BSD-3-Clause"
     },
     {
@@ -94,7 +91,7 @@
       "moduleLicense": "GPL-3.0"
     },
     {
-    "moduleLicense": "ISC"
+      "moduleLicense": "ISC"
     },
     {
       "moduleLicense": "MIT License"
@@ -109,19 +106,7 @@
       "moduleLicense": "MIT*"
     },
     {
-      "moduleLicense": "MIT OR CC0-1.0"
-    },
-    {
-      "moduleLicense": "MIT OR Apache-2.0"
-    },
-    {
-      "moduleLicense": "MIT AND Apache-2.0"
-    },
-    {
-      "moduleLicense": "MIT OR WTFPL"
-    },
-    {
-      "moduleLicense": "MIT AND CC-BY-3.0"
+      "moduleLicense": "WTFPL"
     },
     {
       "moduleLicense": "Mozilla Public License"
