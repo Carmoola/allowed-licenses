@@ -227,6 +227,16 @@
       "moduleLicense": null,
       "moduleVersion": "2.20.75",
       "moduleName": "software.amazon.awssdk:bom"
+    },
+    {
+      "moduleLicense": null,
+      "moduleVersion": "3.6.0",
+      "moduleName": "com.squareup.okio:okio"
+    },
+    {
+      "moduleLicense": null,
+      "moduleVersion": "1.9.25",
+      "moduleName": "org.jetbrains.kotlin:kotlin-stdlib-common"
     }
   ]
 }
