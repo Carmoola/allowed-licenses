@@ -1,6 +1,9 @@
 {
   "allowedLicenses": [
     {
+      "moduleLicense": "AGPL-3.0-or-later"
+    },
+    {
       "moduleLicense": "Apache License, Version 2.0"
     },
     {
